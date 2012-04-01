@@ -21,4 +21,7 @@ Fingerprint Magento instances to figure out which version is running.
 * HTML comments in theme
 * tbc..
 
-
+## 
+* hash-value of /skin/adminhtml/default/default/boxes.css
+* presence of /404
+* presence of /downloader
